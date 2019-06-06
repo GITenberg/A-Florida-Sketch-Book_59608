@@ -1,5 +1,8 @@
 _repo: A-Florida-Sketch-Book_59608
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 59608-h/images/cover.jpg
 creator:
   author:
     agent_name: Torrey, Bradford
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3667
     wikipedia: https://en.wikipedia.org/wiki/Bradford_Torrey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59608#A-Florida-Sketch-Book
 gutenberg_issued: '2019-05-26'
 gutenberg_type: Text
 identifiers:
