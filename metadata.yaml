@@ -1,0 +1,23 @@
+_repo: A-Florida-Sketch-Book_59608
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Torrey, Bradford
+    birthdate: 1843
+    deathdate: 1912
+    gutenberg_agent_id: '3667'
+    url: http://www.gutenberg.org/2009/agents/3667
+    wikipedia: https://en.wikipedia.org/wiki/Bradford_Torrey
+description: ''
+gutenberg_issued: '2019-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59608'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Florida Sketch-Book
+url: http://www.gutenberg.org/ebooks/59608
